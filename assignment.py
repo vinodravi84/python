@@ -20,3 +20,5 @@ print(list)
 
 
 print(list.pop(5))
+# vind is a goood boyyyy
+print("hllo world")
